@@ -13,8 +13,11 @@ This script is suitable for corporate environments where you might have followin
 - Your company has configured AppLocker or Microsoft Defender Application Control (WDAC) so employees cannot install by themselves anything.
 
 ## Deployment instructions
-Deploy the PowerShell-script from Intune using Intune's own script deployment function. You need to deploy the script to specific devices, not users.
+Deploy the PowerShell-script from Intune using Intune's own script deployment function. You need to deploy the script to Security group that includes specific devices that needs this application.
 
 You need to set following settings:
 
 ![Screenshot](/img/img%201.png)
+
+## Updating application
+Updating applications from deployed Shared PC -devices is really easy. From the code of the script, you just need to update the date from the comments and add updated script to the policy. Then script will be rerun to the deployed devices and GoTo Opener will be updated automatically. 
