@@ -25,4 +25,4 @@ Updating applications from deployed Shared PC -devices is really easy. From the 
 ![Screenshot](/img/img%202.png)
 
 ## Script workflow
-TBA
+![Screenshot](/workflow/workflow.png)
