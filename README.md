@@ -17,4 +17,4 @@ Deploy the PowerShell-script from Intune using Intune's own script deployment fu
 
 You need to set following settings:
 
-![Screenshot](/img/img%201img 1.png)
+![Screenshot](/img/img%201.png)
