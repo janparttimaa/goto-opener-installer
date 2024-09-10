@@ -20,4 +20,9 @@ You need to set following settings:
 ![Screenshot](/img/img%201.png)
 
 ## Updating application
-Updating applications from deployed Shared PC -devices is really easy. From the code of the script, you just need to update the date from the comments and add updated script to the policy. Then script will be rerun to the deployed devices and GoTo Opener will be updated automatically. 
+Updating applications from deployed Shared PC -devices is really easy. From the code of the script, you just need to update the date from the comments and add updated script to the policy. Then script will be rerun to the deployed devices and GoTo Opener will be updated automatically. In this example, we will update the original date to 10 September 2024:
+
+![Screenshot](/img/img%202.png)
+
+## Script workflow
+TBA
